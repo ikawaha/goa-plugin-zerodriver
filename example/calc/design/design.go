@@ -1,7 +1,7 @@
 package design
 
 import (
-	_ "github.com/hirosassa/goa-plugin-zerodriver"
+	_ "github.com/ikawaha/goa-plugin-zerodriver"
 	. "goa.design/goa/v3/dsl"
 )
 

@@ -3,7 +3,7 @@ package zdlogger
 import (
 	"testing"
 
-	"github.com/hirosassa/zdlogger/testdata"
+	"github.com/ikawaha/goa-plugin-zerodriver/testdata"
 
 	"goa.design/goa/v3/codegen"
 	"goa.design/goa/v3/codegen/generator"
